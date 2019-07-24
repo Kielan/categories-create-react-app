@@ -1,6 +1,4 @@
-.App {
-  text-align: center;
-}
+.App {}
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
@@ -9,14 +7,6 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
 .App-link {
@@ -30,4 +20,18 @@
   to {
     transform: rotate(360deg);
   }
+}
+.table {
+  display: table;
+  border-collapse: separate;
+  white-space: normal;
+  line-height: normal;
+  font-weight: normal;
+  font-size: medium;
+  font-style: normal;
+  color: -internal-quirk-inherit;
+  text-align: start;
+  border-spacing: 2px;
+  border-color: grey;
+  font-variant: normal;
 }

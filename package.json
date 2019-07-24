@@ -1,8 +1,9 @@
 {
-  "name": "hr-proto-min",
+  "name": "creactapp-axios-categories-90min",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.19.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.0",
@@ -34,8 +35,8 @@
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.12.1",
     "expect": "^24.7.1",
-    "react-test-renderer": "^16.8.6",
-    "jest-junit": "^6.3.0"
+    "jest-junit": "^6.3.0",
+    "react-test-renderer": "^16.8.6"
   },
   "jest-junit": {
     "suiteName": "jest tests",
